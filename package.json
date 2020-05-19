@@ -1,5 +1,5 @@
 {
-  "name": "vue2boilerplate",
+  "name": "creationAlerte",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,10 +11,15 @@
     "core-js": "^3.6.4",
     "google-protobuf": "^3.11.4",
     "grpc-web": "^1.0.7",
+    "idb": "^5.0.1",
+    "idb-keyval": "^3.2.0",
+    "leaflet": "^1.6.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
+    "vue2-leaflet": "^2.5.2",
     "vuetify": "^2.2.11",
-    "vuex": "^3.1.2"
+    "vuex": "^3.1.2",
+    "worker-loader": "^2.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",

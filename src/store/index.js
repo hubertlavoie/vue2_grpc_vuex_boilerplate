@@ -1,9 +1,9 @@
 import Vue from "vue";
 import Vuex from "vuex";
-import * as grpc from "@/store/modules/grpc.js";
+import * as main from "@/store/modules/main.js";
 
 Vue.use(Vuex);
 
 export default new Vuex.Store({
-  modules: { grpc }
+  modules: { main },
 });
